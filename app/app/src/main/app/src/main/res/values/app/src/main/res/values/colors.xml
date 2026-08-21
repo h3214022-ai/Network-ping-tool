@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg_dark">#0F2027</color>
+    <color name="bg_card">#15303B</color>
+    <color name="accent_green">#38EF7D</color>
+    <color name="accent_teal">#4DD0E1</color>
+    <color name="accent_red">#EF473A</color>
+    <color name="accent_yellow">#FFD166</color>
+    <color name="text_light">#EAF6FF</color>
+    <color name="text_muted">#9FD8FF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
